@@ -10,7 +10,7 @@
 
 </div>
 
-# Содержание
+# Table of contents
 - [List of developers](#list-of-developers)
 - [Glossary](#glossary)
 
